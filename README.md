@@ -1,6 +1,3 @@
-# Urban-Routes-Regression-Testing
- QA testing project for the Urban Routes transportation app, including regression tests, test cases, and defect reports.
-
 # 🚌 Urban Routes QA Testing Project
 
 This repository showcases my Quality Assurance (QA) work on the **Urban Routes transportation application**.  
